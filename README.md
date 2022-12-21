@@ -2,7 +2,10 @@
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47b7t2pfke99b6ugxno8obkl7comfwej9hn6a5qicn&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **React**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagjeet-singh1812&label=Profile%20views&color=0e75b6&style=flat" alt="jagjeet-singh1812" /> </p>
+
+
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **sappaljagjeet@gmail.com**
 
@@ -20,8 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagjeet-singh1812&show_icons=true&locale=en&layout=compact" alt="jagjeet-singh1812" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagjeet-singh1812&show_icons=true&locale=en" alt="jagjeet-singh1812" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagjeet-singh1812&" alt="jagjeet-singh1812" /></p>
 
 <!---
 jagjeet-singh1812/jagjeet-singh1812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
