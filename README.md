@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagjeet-singh1812&show_icons=true&locale=en&layout=compact" alt="jagjeet-singh1812" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagjeet-singh1812&show_icons=true&locale=en" alt="jagjeet-singh1812" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jagjeet-singh1812&show_icons=true&locale=en" alt="jagjeet-singh1812" /></p>
 
 <!---
 jagjeet-singh1812/jagjeet-singh1812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
