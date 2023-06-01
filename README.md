@@ -3,6 +3,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47b7t2pfke99b6ugxno8obkl7comfwej9hn6a5qicn&rid=giphy.gif&ct=g">
 
+
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagjeet-singh1812" alt="jagjeet-singh1812" /></a> </p> -->
 
 
