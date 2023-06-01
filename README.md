@@ -5,6 +5,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagjeet-singh1812" alt="jagjeet-singh1812" /></a> </p> -->
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagjeet-singh1812&label=Profile%20views&color=0e75b6&style=flat" alt="jagjeet-singh1812" /> </p>
 - 🌱 I’m currently learning **DJANGO**
 
 - 💬 Ask me about **React and DSA**
