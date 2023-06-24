@@ -30,5 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagjeet-singh1812&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="jagjeet-singh1812" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagjeet-singh1812&show_icons=true&locale=en" alt="jagjeet-singh1812" /></p>
 
